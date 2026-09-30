@@ -15,13 +15,6 @@ This folder contains my practice and implementations while learning API integrat
 - JSON and structured data
 - API error handling
 
-## Tools & Libraries
-
-- Python
-- Requests
-- JSON
-- Jupyter Notebook
-
 ## Data Engineering Relevance
 
 APIs are commonly used as data sources in data pipelines.
